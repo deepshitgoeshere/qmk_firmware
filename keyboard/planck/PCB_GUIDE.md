@@ -64,6 +64,10 @@ after running 'make' on Windows than you are encountering a very popular issue w
 You can easily fix this problem by replacing msys-1.0.dll in WinAVR/utils/bin with [this one](http://www.madwizard.org/download/electronics/msys-1.0-vista64.zip).
 Restart your system and everything should work fine!
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 52b3ddb521ebe510a0674a69ce4f5ef208ea871f
 If you see this
 
     dfu-programmer atmega32u4 erase
